@@ -41,3 +41,6 @@ total users: 15 million (user accounts)
 
 ### Architecture Analysis
 
+Here is an overview of general architecture diagaram
+
+![Architecture](/resources/general_architecture.png)
