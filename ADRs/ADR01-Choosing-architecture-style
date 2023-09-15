@@ -1,0 +1,3 @@
+# ADR01 architecture style
+
+Event driven architecture was chosen.
