@@ -39,6 +39,21 @@ total users: 15 million (user accounts)
 
 ## Solution
 
+### Driving characteristics
+
+#### Scalability
+
+With 2 million active users per week and a total of 15 million user accounts,
+the system needs to be able to handle a large volume of concurrent events and requests.
+The system should be able to scale horizontally to handle the load as it might be quite
+expensive to scale vertically by increasing instance sizes.
+
+#### Elasticity
+
+#### Extensibility
+
+#### Responsiveness
+
 ### Architecture Analysis
 
 Here is an overview of general architecture diagaram
