@@ -1,8 +1,15 @@
 # Architectural Kata: Spring 2023: Road Warrior
+![logo](konttilonkero.png)
 
 ## Introduction
+This document describes a solution proposal for O'Reilly Architecture Katas 2023 called Road Warrior.
 
 ## Members
+- Jani Rotola-Pukkila
+- Joonas Pessi
+- Jussi Haapanen
+- Markus Salmi
+- Mika Koikkalainen 
 
 ## Problem Analysis / Business Case
 
