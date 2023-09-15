@@ -8,7 +8,7 @@ This document describes a solution proposal for O'Reilly Architecture Katas 2023
 
 ## Team & Members
 
-Team name Konttilonkero (Finnish for "container of tentacles")
+Team Konttilonkero (origins from Finnish language and translates to "container of tentacles")
 
 - Jani Rotola-Pukkila
 - Joonas Pessi
