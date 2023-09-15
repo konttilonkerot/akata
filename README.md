@@ -1,5 +1,5 @@
 # Architectural Kata: Spring 2023: Road Warrior
-![logo](konttilonkero.png)
+![logo](/resources/konttilonkero.png)
 
 ## Introduction
 This document describes a solution proposal for O'Reilly Architecture Katas 2023 called Road Warrior.
